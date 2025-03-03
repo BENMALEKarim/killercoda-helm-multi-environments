@@ -1,0 +1,6 @@
+environment: dev
+replicas: 1
+image:
+  tag: v2.4.0
+hpa:
+  enabled: false

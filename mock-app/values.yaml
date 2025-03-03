@@ -1,0 +1,3 @@
+appName: mock-app
+image:
+  repository: benmalekarim/mock-app
